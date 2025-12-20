@@ -1,0 +1,14 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# compiled files
+*.js
+*.js.map
+*.d.ts
+*.d.ts.map
+
+# misc
+*.log

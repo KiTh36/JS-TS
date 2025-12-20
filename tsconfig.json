@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    /* Основные настройки */
+    "target": "ES2017",
+    "module": "ESNext",
+    "moduleResolution": "Node",
+
+    /* Пути */
+    "rootDir": "./src",
+    "outDir": "./dist",
+
+    /* Строгая типизация */
+    "strict": true,
+
+    /* Совместимость */
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    /* ВАЖНО: решает твою ошибку */
+    "verbatimModuleSyntax": false,
+
+    /* Прочее */
+    "skipLibCheck": true
+  },
+  "include": ["src"],
+  "exclude": ["node_modules", "dist"]
+}
+
