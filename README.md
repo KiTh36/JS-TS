@@ -1,1 +1,1 @@
-# JS-TS project folder
+# JS-TS projects folder
